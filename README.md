@@ -8,31 +8,35 @@
 - Always eager to learn and explore new technologies
 
 ## 💻 Technical Expertise
-```javascript
-const technicalProfile = {
-    programmingLanguages: {
-        primary: ["Lua", "TypeScript", "JavaScript"],
-        secondary: ["Python", "C#"],
-        familiar: ["Java", "PHP"]
-    },
-    webDevelopment: {
-        frontend: ["HTML5", "CSS3", "SASS/SCSS"],
-        markup: ["JSON", "YAML", "XML"],
-        styling: ["Tailwind CSS", "Bootstrap"]
-    },
-    frameworks: {
-        javascript: ["Vue.js", "React.js"],
-        css: ["Tailwind CSS", "Bootstrap"],
-        testing: ["Jest", "Mocha"]
-    },
-    tools: {
-        versionControl: ["Git", "GitHub"],
-        editors: ["VS Code", "Sublime Text"],
-        deployment: ["Docker", "Netlify"]
-    },
-    databases: ["MySQL", "MongoDB", "SQLite"]
-}
-```
+
+### Programming Languages
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+### Frameworks & Libraries
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## 🚀 Current Positions & Projects
 
