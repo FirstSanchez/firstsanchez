@@ -1,44 +1,92 @@
-# 👋 FirstSanchez
+# 👋 Welcome to FirstSanchez's Profile
 
-## 🧑‍💻 Über Mich
-- 24 Jahre alt
-- Aus Kiel, Deutschland
-- Professioneller Entwickler für FiveM & Discord
+## 🧑‍💻 About Me
+- 24 years old, based in Kiel, Germany
+- Professional Developer specializing in FiveM & Discord Development
+- Passionate about creating innovative gaming experiences
+- Dedicated to clean code and best practices
+- Always eager to learn and explore new technologies
 
-## 💻 Technische Fähigkeiten
+## 💻 Technical Expertise
 ```javascript
-const skills = {
-    programmiersprachen: [
-        "Lua",
-        "TypeScript",
-        "JavaScript",
-        "Python",
-        "C#"
-    ],
-    webTechnologien: [
-        "HTML",
-        "CSS",
-        "JSON"
-    ],
-    frameworks: [
-        "Vue",
-        "React"
-    ]
+const technicalProfile = {
+    programmingLanguages: {
+        primary: ["Lua", "TypeScript", "JavaScript"],
+        secondary: ["Python", "C#"],
+        familiar: ["Java", "PHP"]
+    },
+    webDevelopment: {
+        frontend: ["HTML5", "CSS3", "SASS/SCSS"],
+        markup: ["JSON", "YAML", "XML"],
+        styling: ["Tailwind CSS", "Bootstrap"]
+    },
+    frameworks: {
+        javascript: ["Vue.js", "React.js"],
+        css: ["Tailwind CSS", "Bootstrap"],
+        testing: ["Jest", "Mocha"]
+    },
+    tools: {
+        versionControl: ["Git", "GitHub"],
+        editors: ["VS Code", "Sublime Text"],
+        deployment: ["Docker", "Netlify"]
+    },
+    databases: ["MySQL", "MongoDB", "SQLite"]
 }
 ```
 
-## 🚀 Aktuelle Positionen
-- **Main Developer** bei [Sin City FiveM](https://discord.gg/sincityrp)
-- Mitglied des [ESX Teams](https://discord.gg/esx-hub)
+## 🚀 Current Positions & Projects
 
-## 💼 Dienstleistungen
-Ich biete professionelle Entwicklungsdienstleistungen in folgenden Bereichen:
-- 🤖 Discord Bots
-- 🎮 FiveM Scripts
+### Sin City FiveM
+- **Role:** Main Developer
+- **Responsibilities:**
+  - Core gameplay systems development
+  - Custom script creation and optimization
+  - Server performance monitoring and enhancement
+  - Technical documentation and team leadership
+- **Link:** [Join our community](https://discord.gg/sincityrp)
 
-## 📫 Kontakt
+### ESX Team Member
+- Active contributor to the ESX Framework
+- Focus on core functionality improvements
+- Community support and documentation
+- **Link:** [ESX Hub](https://discord.gg/esx-hub)
+
+## 💼 Professional Services
+
+### 🤖 Discord Bot Development
+- Custom bot development tailored to your needs
+- Advanced automation and moderation systems
+- Server management and analytics
+- Integration with external APIs and services
+
+### 🎮 FiveM Development
+- Custom script development
+- Server optimization and performance tuning
+- Resource development and modification
+- Technical consulting and support
+
+## 🛠️ Development Philosophy
+- Clean and maintainable code
+- Performance-focused solutions
+- Comprehensive documentation
+- Regular updates and support
+- User-centered design
+
+## 📫 Contact & Collaboration
 - **Discord:** FirstSanchez
-- Offen für Projektanfragen und Zusammenarbeit
+- Open for project inquiries and collaborations
+- Available for consulting and technical discussions
+- Interested in long-term partnerships
+
+## 🌟 Why Work With Me?
+- Years of professional development experience
+- Strong problem-solving abilities
+- Excellent communication skills
+- Commitment to project success
+- Regular updates and transparent development process
 
 ---
-*Für Geschäftsanfragen und Projekte kontaktieren Sie mich bitte über Discord.*
+
+*For business inquiries and project discussions, please reach out via Discord. I look forward to bringing your ideas to life!* 
+
+*Available for both short-term projects and long-term collaborations.*
