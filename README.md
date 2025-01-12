@@ -51,7 +51,6 @@
 
 ### ESX Team Member
 - Active contributor to the ESX Framework
-- Focus on core functionality improvements
 - Community support and documentation
 - **Link:** [ESX Hub](https://discord.gg/esx-hub)
 
@@ -93,4 +92,4 @@
 
 *For business inquiries and project discussions, please reach out via Discord. I look forward to bringing your ideas to life!* 
 
-*Available for both short-term projects and long-term collaborations.*
+*Available for both short-term projects.*
