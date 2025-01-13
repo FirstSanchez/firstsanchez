@@ -41,7 +41,7 @@
 ## 🚀 Current Positions & Projects
 
 ### Sin City FiveM
-- **Role:** Main Developer
+- **Role:** 2nd Owner & Developer
 - **Responsibilities:**
   - Core gameplay systems development
   - Custom script creation and optimization
