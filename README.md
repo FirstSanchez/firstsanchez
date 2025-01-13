@@ -6,6 +6,7 @@
 - Passionate about creating innovative gaming experiences
 - Dedicated to clean code and best practices
 - Always eager to learn and explore new technologies
+  
 ![](https://komarev.com/ghpvc/?username=FirstSanchez)
 
 ## 💻 Technical Expertise
