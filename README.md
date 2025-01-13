@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 - 24 years old, based in Kiel, Germany
-- Professional Developer specializing in FiveM & Discord Development
+- Learning Developer specializing in FiveM & Discord Development
 - Passionate about creating innovative gaming experiences
 - Dedicated to clean code and best practices
 - Always eager to learn and explore new technologies
