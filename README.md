@@ -1,7 +1,7 @@
 # 👋 Welcome to FirstSanchez's Profile
 
 ## 🧑‍💻 About Me
-- 24 years old, based in Kiel, Germany
+- 24 years old, based in Germany
 - Learning Developer specializing in FiveM & Discord Development
 - Passionate about creating innovative gaming experiences
 - Dedicated to clean code and best practices
